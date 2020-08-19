@@ -16,7 +16,7 @@
   * PSSMmaker and  PSSMtest implement PsePSSM.
   * PWAAC.m and PWAAC_DATA.m implement PWAAC.
   
-**Dimensional reduction:
+**Dimension reduction:
   * LASSO.py and tools.py implement LASSO.
   
 **borderline-SMOTE:
